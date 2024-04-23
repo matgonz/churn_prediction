@@ -10,3 +10,5 @@ What you'll learn here:
 - Data Preparation
 - Model Training and Evaluate Results: A step-by-step of how using machine learning to predict churn customers
 - MLOps: The path of integrate machine learning with business operations and scale your results
+
+[Documentation](documentation/churn_prediction_documentation.md)
