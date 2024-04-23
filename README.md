@@ -1,5 +1,5 @@
-## Churn Prediction for Dummies
-A gentle and short guide to solve a real-world business problem with machine learning.
+## Churn Prediction for Dummies With Apply MLOps
+A gentle and short guide to solve a real-world business problem with machine learning and applying MLOps to integrate the solution with business operations and scaleup the results.
 
 ### Introduction
 
